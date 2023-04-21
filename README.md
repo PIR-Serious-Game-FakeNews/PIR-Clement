@@ -36,8 +36,14 @@ Le jeu s'arrête à partir d'un nombre de tour déterminé par les joueurs.
 ## Les Déplacements
 
 Voici le plateau :
-![alt text](./IMAGE/Plateau\ PIR.jpg)
+<p align="center">
+<img src=https://github.com/PIR-Serious-Game-FakeNews/PIR-Jeu_BackEnd/blob/main/IMAGE/Plateau%20PIR.jpg>
+</p>
+
 
 et comment les déplacements passeront
-![alt text](./IMAGE/IMG_3626.HEIC)
+<p align="center">
+<img src=https://github.com/PIR-Serious-Game-FakeNews/PIR-Jeu_BackEnd/blob/main/IMAGE/IMG_3626.jpg>
+</p>
+
 
