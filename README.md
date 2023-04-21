@@ -31,3 +31,7 @@ Les news complexes rapportent beaucoup de crédibilités mais prennent aussi bea
   soumis au même système que les news simples.
 
 Le jeu s'arrête à partir d'un nombre de tour déterminé par les joueurs.
+
+
+## Les Déplacements
+
