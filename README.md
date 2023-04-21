@@ -35,3 +35,9 @@ Le jeu s'arrête à partir d'un nombre de tour déterminé par les joueurs.
 
 ## Les Déplacements
 
+Voici le plateau :
+![alt text](./IMAGE/Plateau\ PIR.jpg)
+
+et comment les déplacements passeront
+![alt text](./IMAGE/IMG_3626.HEIC)
+
